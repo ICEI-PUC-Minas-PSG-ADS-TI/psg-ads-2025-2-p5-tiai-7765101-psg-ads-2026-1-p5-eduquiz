@@ -37,7 +37,6 @@ Desenvolver um aplicativo educacional gamificado que utilize **Inteligência Art
 - Desenvolver um **sistema de explicação automática** que informe ao usuário por que ele errou determinada questão.
 - Criar um **sistema de gamificação** com níveis, progresso e recompensas para aumentar o engajamento dos estudantes.
 - Organizar os conteúdos por **ano escolar e disciplina**.
-- Disponibilizar a aplicação em formato **web ou mobile**, permitindo acesso fácil para estudantes.
 
 ---
 
@@ -59,7 +58,7 @@ O público-alvo do **EduQuiz** são:
 
 - **Estudantes do Ensino Fundamental e Ensino Médio** (aproximadamente entre 6 e 18 anos).
 - Alunos que desejam **revisar conteúdos escolares de forma interativa e gamificada**.
-- Estudantes que utilizam **smartphones ou computadores para estudar**.
+- Estudantes que utilizam **smartphones ou computadores para estudar**
 
 Além dos estudantes, a aplicação também pode ser utilizada por:
 
