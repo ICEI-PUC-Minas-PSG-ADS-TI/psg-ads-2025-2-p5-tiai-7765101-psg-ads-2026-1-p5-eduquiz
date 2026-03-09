@@ -16,7 +16,7 @@ ODS Alinhados: ODS 4 - Educação de Qualidade
 ## Integrantes
 
 * Pedro Henrique Rodrigues Evangelista 
-* Nome completo do aluno 2
+* Felipe de Oliveira Pereira
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
