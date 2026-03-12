@@ -61,31 +61,31 @@ O projeto será realizado em **4 Sprints**, com entregas contínuas de código e
 
 ---
 
-# 👥 Papéis de Gestão
+## 👥 Papéis de Gestão
 
-Todos programam.  
+Todos programam.
 Os papéis abaixo são apenas para organização do time.
 
-- 👨‍💻 **Tech Lead (Git Master)**  
-  Responsável pelo repositório e merges.
+* 👨‍💻 **Tech Lead (Git Master)**
+  Responsável pela arquitetura principal, gestão do repositório e aprovação de *pull requests* (merges). Garante a integração contínua das funcionalidades do aplicativo, especialmente a comunicação com a Inteligência Artificial geradora de perguntas.
 
-- 🗄️ **Arquiteto de Dados (DBA Guard)**  
-  Responsável pela modelagem e padronização do banco.
+* 🗄️ **Arquiteto de Dados (DBA Guard)**
+  Responsável pela modelagem e padronização do banco de dados. Estrutura de forma eficiente o armazenamento de perfis de usuários, progressão gamificada (níveis/recompensas), grade curricular (Ensino Fundamental e Médio) e o histórico de erros e acertos.
 
-- 🧪 **Gerente de Qualidade (QA & Code Reviewer)**  
-  Responsável por revisar código e validar testes.
+* 🧪 **Gerente de Qualidade (QA & Code Reviewer)**
+  Responsável por revisar código e validar testes. Garante que o aplicativo seja intuitivo, livre de bugs e acessível para o público-alvo (estudantes de 6 a 18 anos), além de homologar se as explicações geradas pela IA estão claras e corretas.
 
-- 📋 **Facilitador Ágil (PO / Scrum Master)**  
-  Responsável por prazos, Kanban e priorização do backlog.
+* 📋 **Facilitador Ágil (PO / Scrum Master)**
+  Responsável por prazos, gestão do Kanban e priorização do backlog. Assegura que o time foque nas entregas de maior valor educacional e de engajamento a cada ciclo, removendo impedimentos do caminho.
 
 ---
 
-##  Definição dos Papéis – Sprint 1
+### Definição dos Papéis – Sprint 1
 
-- 👨‍💻 Tech Lead:
-- 🗄️ Arquiteto de Dados:
-- 🧪 Gerente de Qualidade:
-- 📋 Facilitador Ágil:
+* 👨‍💻 **Tech Lead:** Robson
+* 🗄️ **Arquiteto de Dados:** Pedro Henrique
+* 🧪 **Gerente de Qualidade:** Felipe
+* 📋 **Facilitador Ágil:** Lucas
 
 > Caso os papéis mudem nas próximas Sprints, atualizar neste documento.
 
