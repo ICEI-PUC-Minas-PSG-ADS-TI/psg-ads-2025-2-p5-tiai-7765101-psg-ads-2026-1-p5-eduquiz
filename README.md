@@ -18,7 +18,7 @@ ODS Alinhados: ODS 4 - Educação de Qualidade
 * Pedro Henrique Rodrigues Evangelista 
 * Felipe de Oliveira Pereira
 * Robson Marcolino da silva Junior
-* Nome completo do aluno 4
+* Lucas de paula silva
 
 ## Orientador
 
